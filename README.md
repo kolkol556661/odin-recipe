@@ -1,2 +1,3 @@
 # odin-recipes
-in this project I will be creating a index page linking to various recipes although it will be ugly at first but as i progress with the odin project i will me making changes to my recipe webpage to make it more aesthetically  pleasing.
+My first odin project! 
+https://kolkol556661.github.io/odin-recipe/ 
